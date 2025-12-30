@@ -1,0 +1,4 @@
+url: your-bitbucket-link
+username: your-username
+password: your-password
+# you can also convert username and password into only token as well
