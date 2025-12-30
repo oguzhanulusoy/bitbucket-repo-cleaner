@@ -7,6 +7,7 @@ Prerequisites (You need to fill configuration.yml for Bitbucket API):
 - password="..."
 
 Possible actions:
+
 0. Set filename
 1. Set project key
 2. Set repository slug
@@ -16,4 +17,5 @@ Possible actions:
 6. Save branches
 7. Show not allowed branches
 8. Delete branches
+
 (Any to break)
